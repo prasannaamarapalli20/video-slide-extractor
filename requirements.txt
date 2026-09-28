@@ -1,0 +1,16 @@
+charset-normalizer==3.5.1
+click==8.5.0
+ImageHash==4.3.2
+numpy==2.5.3
+opencv-python==5.0.0.93
+packaging==26.3
+pillow==12.3.0
+platformdirs==4.12.1
+pytesseract==0.3.13
+PyWavelets==1.10.0
+reportlab==5.0.1
+scenedetect==0.7.1
+scipy==1.18.1
+tqdm==4.70.1
+
+Flask>=3.0,<4
